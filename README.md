@@ -5,8 +5,6 @@
     </a>
 </p>
 
----
-
 <h2 align="center">Welcome to my GitHub profile!</h2>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CSE'26+Undergrad;Passionate+about+Coding;Frontend+developer;MERN+Stack+Enthusiast!" alt="Typing SVG"/>
@@ -116,9 +114,6 @@
     <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="40"/>
 </p>
 
----
-
-<h2 align="center">Footer</h2>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Keep+Exploring+!;Let's+code+together!" alt="Typing SVG"/>
 </p>
