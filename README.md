@@ -12,7 +12,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CSE'26+Undergrad;Passionate+about+Coding;Frontend+developer;MERN+Stack+Enthusiast!" alt="Typing SVG"/>
 </p>
 
----
+<p align="center">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
+</p>
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
@@ -40,11 +42,8 @@
 
 ---
 
-<p align="center">
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image"/>
-</p>
 
----
+
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
