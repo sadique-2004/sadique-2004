@@ -113,7 +113,9 @@
     <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="40"/>
     <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="40"/>
 </p>
+
 ---
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=-Keep+Learning+and+Keep+Exploring+!;Let's+code+together!" alt="Typing SVG"/>
 </p>
