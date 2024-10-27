@@ -9,11 +9,11 @@
 ---
 
 ## Connect with me
-Hello, fellow developer's! 🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms:
+Hello, fellow developers! 🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms:
 
-- [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/mdsadique5/) LinkedIn
-- [![HackerRank](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=4088)](https://www.hackerrank.com/profile/md_sadique) HackerRank
-- [![LeetCode](https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png)](https://leetcode.com/u/md-sadique/) LeetCode
+- [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/mdsadique5/)
+- [![HackerRank](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=4088)](https://www.hackerrank.com/profile/md_sadique)
+- [![LeetCode](https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png)](https://leetcode.com/u/md-sadique/)
 
 ---
 
@@ -42,39 +42,40 @@ Email: [mdsadique044234@gmail.com](mailto:mdsadique044234@gmail.com)
 ---
 
 ## Languages, Tools and Technologies
+
 ### Programming Languages
-![C++](https://skillicons.dev/icons?i=cpp&theme=dark) 
-![Java](https://skillicons.dev/icons?i=java&theme=dark) 
-![JavaScript](https://skillicons.dev/icons?i=js&theme=dark) 
+- ![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
+- ![Java](https://skillicons.dev/icons?i=java&theme=dark)
+- ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
 
 ### Frontend Development
-![HTML](https://skillicons.dev/icons?i=html) 
-![CSS](https://skillicons.dev/icons?i=css) 
-![JavaScript](https://skillicons.dev/icons?i=js) 
+- ![HTML](https://skillicons.dev/icons?i=html)
+- ![CSS](https://skillicons.dev/icons?i=css)
+- ![JavaScript](https://skillicons.dev/icons?i=js)
 
 ### Frontend Frameworks & Libraries
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap) 
-![Tailwind](https://skillicons.dev/icons?i=tailwind) 
+- ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+- ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### Backend Development
-![NodeJS](https://skillicons.dev/icons?i=nodejs) 
-![Express](https://skillicons.dev/icons?i=express) 
-![npm](https://skillicons.dev/icons?i=npm) 
+- ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+- ![Express](https://skillicons.dev/icons?i=express)
+- ![npm](https://skillicons.dev/icons?i=npm)
 
 ### RESTful API Clients
-![Postman](https://skillicons.dev/icons?i=postman) 
-![Hoppscotch](https://avatars.githubusercontent.com/u/56705483) 
+- ![Postman](https://skillicons.dev/icons?i=postman)
+- ![Hoppscotch](https://avatars.githubusercontent.com/u/56705483)
 
 ### Database
-![MySQL](https://skillicons.dev/icons?i=mysql) 
-![MongoDB](https://skillicons.dev/icons?i=mongodb) 
+- ![MySQL](https://skillicons.dev/icons?i=mysql)
+- ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 ### Developer Tools
-![Git](https://skillicons.dev/icons?i=git&theme=dark) 
-![GitHub](https://skillicons.dev/icons?i=github&theme=dark) 
-![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark) 
-![Netlify](https://skillicons.dev/icons?i=netlify&theme=dark) 
-![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark) 
+- ![Git](https://skillicons.dev/icons?i=git&theme=dark)
+- ![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+- ![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
+- ![Netlify](https://skillicons.dev/icons?i=netlify&theme=dark)
+- ![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)
 
 ---
 
