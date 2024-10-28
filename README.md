@@ -1,9 +1,10 @@
 <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/mdsadique5/" target="_blank">Sadique</h1> 
 <p align="center">
     <a href="https://www.linkedin.com/in/mdsadique5/">
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+        <img src="https://github.com/yourusername/yourrepo/blob/main/ezgif.com-animated-gif-maker.gif" width="400"/>
     </a>
 </p>
+
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CSE'26+Undergrad;Passionate+about+Coding;Frontend+developer;MERN+Stack+Enthusiast!" alt="Typing SVG"/>
 </p>
