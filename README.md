@@ -27,12 +27,7 @@
     </a>
 </p>
 
----
-
-<h2 align="center">Contact</h2>
-<p align="center">
-    Email: <a href="mailto:mdsadique044234@gmail.com">mdsadique044234@gmail.com</a>
-</p>
+<h4 align="center"> 📩 Get in touch: <a href="mailto:mdsadique044234@gmail.com">mdsadique044234@gmail.com</a> </h4>
 
 <p align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
