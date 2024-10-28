@@ -1,7 +1,7 @@
 <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/mdsadique5/" target="_blank">Sadique</h1> 
 <p align="center">
     <a href="https://www.linkedin.com/in/mdsadique5/">
-        <img src="https://github.com/yourusername/yourrepo/blob/main/ezgif.com-animated-gif-maker.gif" width="400"/>
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h4ZXhsbDFzejd3d2R5aTZkbXY5MHd2MjBqb2ZyMm9rcTllZTdtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UbhiK6IJ8GLM78RX1I/giphy.gif"/>
     </a>
 </p>
 
