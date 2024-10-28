@@ -1,20 +1,16 @@
-<h1 align="center">👋 Hi!! I'm Md Sadique</h1>
+<h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/mdsadique5/" target="_blank">Sadique</h1> 
 <p align="center">
     <a href="https://www.linkedin.com/in/mdsadique5/">
         <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
     </a>
 </p>
-
-<h2 align="center">Welcome to my GitHub profile!</h2>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CSE'26+Undergrad;Passionate+about+Coding;Frontend+developer;MERN+Stack+Enthusiast!" alt="Typing SVG"/>
 </p>
 
-<p align="center">
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
-</p>
 
-<h2 align="center">Connect with me</h2>
+<h1 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h1>   
+
 <p align="center">
     Hello, fellow developers! 🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms:
 </p>
@@ -38,9 +34,9 @@
     Email: <a href="mailto:mdsadique044234@gmail.com">mdsadique044234@gmail.com</a>
 </p>
 
----
-
-
+<p align="center">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
+</p>
 
 
 <h2 align="center">GitHub Stats</h2>
