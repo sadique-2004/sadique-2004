@@ -118,9 +118,8 @@
 </table>
 <br>
 
-
----
-
-<p align="center">
+<div align="center"> 
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=-Keep+Learning+and+Keep+Exploring+!;Let's+code+together!" alt="Typing SVG"/>
-</p>
+    </h1>
+</div>
