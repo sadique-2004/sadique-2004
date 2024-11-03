@@ -29,7 +29,7 @@
 </p>
 
 <h4 align="center"> 📩 Get in touch: <a href="mailto:mdsadique044234@gmail.com">mdsadique044234@gmail.com</a> </h4>
-
+<h1 align="center">Open source Contribution 🚀</h1> 
 <p align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
 </p>
@@ -42,9 +42,16 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
-	<p align="center">
+<p align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
 </p>
+<h1>Hacktoberfest (24) Badges 🪶</h1> 
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a >
+[![An image of @sadique2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sadique2004)](https://holopin.io/@sadique2004)
+</div>
+	<p align="center">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
+</p>	
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadique-2004&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="GitHub Streak"/>
