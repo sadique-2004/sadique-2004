@@ -46,9 +46,10 @@
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
 </p>
 <h1>Hacktoberfest (24) Badges 🪶</h1> 
+	
 [![An image of @sadique2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sadique2004)](https://holopin.io/@sadique2004)
-</div>
-	<p align="center">
+
+<p align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
 </p>	
 <h2 align="center">GitHub Stats</h2>
