@@ -48,7 +48,7 @@
 <h1>Hacktoberfest (24) Badges 🪶</h1> 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
       <a href="https://holopin.io/@sadique2004">
-  <img src="https://holopin.me/sadique2004/badge.svg" alt="sadique2004's Holopin badges">
+  <img src="E:\web development\hactoberHolopin.png" alt="sadique2004's Holopin badges">
 </a>
 </div>
 	<p align="center">
