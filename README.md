@@ -51,28 +51,6 @@
 
 <p align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
-</p>	
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadique-2004&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="GitHub Streak"/>
-    <br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadique-2004&theme=github_dark" alt="Profile Details"/>
-    <br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadique-2004&theme=github_dark" alt="Repos Per Language"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadique-2004&theme=github_dark" alt="Most Commit Language"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadique-2004&theme=github_dark" alt="Stats"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sadique-2004&theme=github_dark" alt="Productive Time"/>
-</p>
-
----
-
-<h2 align="center">Trophies</h2>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=sadique-2004&theme=darkhub&column=9&margin-w=11" width="120%" style="display:inline-block;"/>
-</p>
-
-<p align="center">
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
 </p>
 
 <h1 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h1>
@@ -135,6 +113,30 @@
 	</tr>
 </table>
 <br>
+
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadique-2004&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="GitHub Streak"/>
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadique-2004&theme=github_dark" alt="Profile Details"/>
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadique-2004&theme=github_dark" alt="Repos Per Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadique-2004&theme=github_dark" alt="Most Commit Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadique-2004&theme=github_dark" alt="Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sadique-2004&theme=github_dark" alt="Productive Time"/>
+</p>
+
+---
+
+<h2 align="center">Trophies</h2>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=sadique-2004&theme=darkhub&column=9&margin-w=11" width="120%" style="display:inline-block;"/>
+</p>
+
+<p align="center">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
+</p>
+
 
 <div align="center"> 
 <h1 align="center">
