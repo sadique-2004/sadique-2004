@@ -23,7 +23,7 @@
     <a href="https://www.hackerrank.com/profile/md_sadique">
         <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=4088" width="50"/>
     </a>
-    <a href="https://leetcode.com/u/md-sadique/">
+    <a href="https://leetcode.com/u/sadique_Dev/">
         <img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" width="50"/>
     </a>
 </p>
