@@ -56,9 +56,9 @@
 	<tr>
 		<td><strong>Programming Languages</strong></td>
 		<td>
-            <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40"/>
             <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"/>
             <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40"/>
+			<img src="https://skillicons.dev/icons?i=react&theme=dark" width="40"/>
         </td>
 	</tr>
 	<tr>
