@@ -58,7 +58,7 @@
 		<td>
             <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"/>
             <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40"/>
-			<img src="https://skillicons.dev/icons?i=react&theme=dark" width="40"/>
+			
         </td>
 	</tr>
 	<tr>
@@ -67,6 +67,7 @@
             <img src="https://skillicons.dev/icons?i=html" width="40"/>
             <img src="https://skillicons.dev/icons?i=css" width="40"/>
             <img src="https://skillicons.dev/icons?i=js" width="40"/>
+	    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40"/>
         </td>
 	</tr>
 	<tr>
