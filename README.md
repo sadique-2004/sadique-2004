@@ -14,7 +14,7 @@
 </p>
 
 <h2 align="center">
-  Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35px" alt="Handshake GIF">
+  Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35px" alt="Handshake GIF">
 </h2>
 
 <p align="center">
