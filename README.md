@@ -150,9 +150,9 @@
 
 <h2 align="center">🏆 Trophies</h2>
 
-<p align="center">
+
   <img src="https://github-profile-trophy.vercel.app/?username=sadique-2004&theme=darkhub&column=9&margin-w=11" width="100%" alt="GitHub Trophies"/>
-</p>
+
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Divider" width="100%"/>
