@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdsadique5/" target="_blank">
-    <img src="https://cdn.corenexis.com/view/2659244168" alt="LinkedIn GIF"/>
+    <img src="https://image2url.com/images/1761307762239-1361a7b0-be15-4692-bf78-cc174d6f84c5.png" alt="LinkedIn GIF"/>
   </a>
 </p>
 
